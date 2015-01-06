@@ -18,7 +18,7 @@ W planach do dodania:
   - [x] widok ender jakiegoś gracza dla administracji
 - [ ] crafting open
 - [ ] enchant open
-- [ ] anvil open 
+- [x] anvil open 
 - [ ] piorun (komenda)
 - [x] god
 - [x] diament otwierający menu
